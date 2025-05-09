@@ -28,7 +28,7 @@ Dependency packages are saved in `requirements.txt`
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/
+    git clone https://github.com/JacckNew/WeatherForecast-rf.git
     
 2. Create virtual environment (recommended)
 
